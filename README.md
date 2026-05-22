@@ -1,16 +1,14 @@
-## Hi there 👋
+# ¡Hola! Soy Juan David 👋
 
-<!--
-**Daviddev-svg/Daviddev-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador enfocado en crear soluciones eficientes con **Python**, especializado en la automatización de tareas, extracción de datos (Web Scraping) y optimización de procesos.
 
-Here are some ideas to get you started:
+## Mis Habilidades
+- **Lenguajes:** Python, JavaScript
+- **Automatización y Web Scraping:** BeautifulSoup, Selenium, Requests
+- **Bases de Datos & Gestión de Datos:** Pandas, SQL
+- **Entornos y Herramientas:** Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Proyectos en Desarrollo
+*Próximamente mis primeros casos de éxito en automatización y desarrollo.*
+
+📫 Cómo contactarme: jdavid.avila.dev@gmail.com
